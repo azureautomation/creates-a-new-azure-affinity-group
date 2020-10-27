@@ -1,0 +1,20 @@
+{
+    "Author": "Ritesh.Modi",
+    "ContentSize": 5050,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/creates-a-new-azure-affinity-group/master/New-AzureAffinityGroup.ps1",
+    "DownloadCount": 655,
+    "Id": "Creates-a-New-Azure-ff648148",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 582,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-3-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a new Affinity Group representing a location.\u00a0 \u00a0 This runbook needs a valid Azure Location name to create the Affinity group. There are few valid locations like East US, East Asia and others and any one from them must be used as parameter.\u00a0 \u00a0 It checks if",
+    "Title": "Creates a New Azure Affinity Group",
+    "UpdatedDate": "2015-3-15T00:00:00",
+    "Url": "https://github.com/azureautomation/creates-a-new-azure-affinity-group",
+    "UserTags": "Microsoft Azure, Windows Azure PowerShell, Azure Automation"
+}
